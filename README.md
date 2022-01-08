@@ -6,5 +6,5 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yarin-levi1) , [Stuck Overflow](https://stackoverflow.com/users/17318006/yarin-levi) 
 - My Email: yarin066@gmail.com
 - 🤔 I’m looking for a new challenge and try to get better all the time.
-- ⚡ Fun fact: You can find me at the gym or sewing my wardrobe.
-- My Skills :  ⭐️ Wordpress ⭐️  Html ⭐️  CSS ⭐️ SASS ⭐️ JavaScript ⭐️ jQuery ⭐️ Bootstrap ⭐️  PHP ⭐️  Api's rest and ajax ⭐️ angular & firebase ⭐️  react & redux  ⭐️ mySql ⭐️  node.js ⭐️ MongoDb
+- ⚡ Fun facts: You can find me at the gym or sewing my wardrobe.
+- Skills :  ⭐️ Wordpress ⭐️  Html ⭐️  CSS ⭐️ SASS ⭐️ JavaScript ⭐️ jQuery ⭐️ Bootstrap ⭐️  PHP ⭐️  Api's rest and ajax ⭐️ angular & firebase ⭐️  react & redux  ⭐️ mySql ⭐️  node.js ⭐️ MongoDb
