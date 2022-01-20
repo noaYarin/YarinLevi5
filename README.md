@@ -3,7 +3,7 @@
 - 🌱 I’m currently a Full-Stack web development student.
 - 👯 I’m looking to collaborate on open source.
 - 💬 Ask me about everything!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yarin-levi1) , [Stuck Overflow](https://stackoverflow.com/users/17318006/yarin-levi) 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yarin-levi1) , [Stack Overflow](https://stackoverflow.com/users/17318006/yarin-levi) 
 - My Email: yarin066@gmail.com
 - 🤔 I’m looking for a new challenge and try to get better all the time.
 - ⚡ Fun facts: You can find me at the gym or sewing my wardrobe.
