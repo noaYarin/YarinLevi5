@@ -7,4 +7,4 @@
 - My Email: yarin066@gmail.com
 - 🤔 I’m looking for a new challenge and try to get better all the time.
 - ⚡ Fun facts: You can find me at the gym or sewing my wardrobe.
-- Skills :  ⭐️ Wordpress ⭐️  Html ⭐️  CSS ⭐️ SASS ⭐️ JavaScript ⭐️ jQuery ⭐️ Bootstrap ⭐️  PHP ⭐️  Api's rest and ajax ⭐️ angular & firebase ⭐️  react & redux  ⭐️ mySql ⭐️  node.js ⭐️ MongoDb
+- Skills :  ⭐️ Wordpress ⭐️  Html ⭐️  CSS ⭐️ SASS ⭐️ JavaScript ⭐️ jQuery ⭐️ Bootstrap ⭐️  PHP ⭐️  Api's rest and ajax ⭐️ Angular & Firebase ⭐️  React & Redux  ⭐️ MySql ⭐️  Node.js ⭐️ MongoDb
