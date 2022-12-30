@@ -4,8 +4,6 @@
 
 - 🔭 Currently, I am developing a website **voluntarily for the Mityaalim association, a non-profit initiative**  that works to make financial knowledge accessible.
 
-- 🌱 I’m currently learning **PHP and Python**
-
 - 👯 I’m looking to collaborate on **open source.**
 
 - 💬 Ask me about **everything!**
